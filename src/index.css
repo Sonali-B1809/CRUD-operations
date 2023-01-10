@@ -1,0 +1,18 @@
+*{
+   text-align: center;
+}
+button{
+   background-color: rgb(36, 128, 8);
+   width: 60px;
+   color: aliceblue;
+}
+.edit{
+   background-color:brown;
+   color: aliceblue;
+   width: 60px;
+}
+.delete{
+   background-color:rgb(8, 34, 150);
+   color: aliceblue;
+   width: 60px;
+}
